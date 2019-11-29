@@ -1,0 +1,375 @@
+{
+  "products": [
+    {
+        "category": "dresses",
+        "availableSizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "description": "Velvet Cami Dress",
+        "id": 28,
+        "price": 45,
+        "title": "Velvet Cami Dress",
+        "image": "https://www.forever21.com/images/1_front_750/00384507-09.jpg "
+      },
+      {
+        "category": "dresses",
+        "availableSizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "description": "Distressed Mini Sweater Dress",
+        "id": 29,
+        "price": 69,
+        "title": "Distressed Mini Sweater Dress",
+        "image": "https://www.forever21.com/images/1_front_750/00363093-03.jpg "
+      },
+      {
+        "category": "dresses",
+        "availableSizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "description": "Glen Plaid Cami Dress",
+        "id": 20,
+        "price": 70,
+        "title": "Glen Plaid Cami Dress",
+        "image": "https://www.forever21.com/images/1_front_750/00373182-01.jpg"
+      },
+      {
+      "category": "shoes",
+      "availableSizes": [
+        8,
+        8.30,
+        9,
+        9.30
+      ],
+      "description": "Black combat boots",
+      "id": 1,
+      "price": 120,
+      "title": "Classic combat boots",
+      "image": "https://mp-media.reebonz.com/images/p-00/reebonz-dr-martens-jadon-black-combat-boots-dr-martens-1-00d270a0-9a22-423e-b5e4-0e2559c995b8.jpg;mode=pad;bgcolor=fff;404=404.jpg;width=402;height=500;quality=100 "
+    },
+    {
+      "category": "shoes",
+      "availableSizes": [
+        8,
+        8.30,
+        9,
+        9.30
+      ],
+      "description": "Red combat boots",
+      "id": 2,
+      "price": 115,
+      "title": "Red combat boots",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XoVYSYhZL._UY395_.jpg  "
+    },
+    {
+      "category": "shoes",
+      "availableSizes": [
+        8,
+        8.30,
+        9,
+        9.30
+      ],
+      "description": "Black Platform Boots",
+      "id": 3,
+      "price": 130,
+      "title": "Black Platform Boots",
+      "image": "https://brixtonrecords.com/denda/img/p/2/8/3/5/2835-large_default.jpg"
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Start Mesh blouse",
+      "id": 4,
+      "price":57 ,
+      "title": "Start Mesh blouse",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91IXUzqoxcL._UY606_.jpg "
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Corset blouse",
+      "id": 5,
+      "price": 39,
+      "title": "Corset blouse",
+      "image": "https://www.na-kd.com/globalassets/nakd_puffy_shoulder_corset_top_1018-001642-0083_01a.jpg?ref=2F6EED975F"
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Basic crop top",
+      "id": 6,
+      "price": 29,
+      "title": "Basic crop top",
+      "image": "https://media.missguided.com/s/missguided/TJF18852_set/1/black-basic-embroidered-crop-top "
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Basic Straple crop top",
+      "id": 7,
+      "price": 34,
+      "title": "Basic Straple crop top",
+      "image": "https://images.asos-media.com/products/asos-design-one-shoulder-long-sleeve-crop-top-in-black/11167241-1-black?$XXL$&wid=513&fit=constrain "
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Ribbed Twist-Front Crop Top",
+      "id": 8,
+      "price": 60,
+      "title": "Ribbed Twist-Front Crop Top",
+      "image": "https://www.forever21.com/images/1_front_750/00392933-01.jpg "
+    },
+    {
+      "category": "dresses",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Moon maxi dress",
+      "id": 9,
+      "price": 30,
+      "title": "Moon maxi dress",
+      "image": "http://cdn.shopify.com/s/files/1/0022/3271/3328/products/HIME-DRESS-OVERSIZE-SUN-MOON-STAR90068_grande.jpg?v=1553482089 "
+    },
+    {
+      "category": "dresses",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Black basic dress",
+      "id": 10,
+      "price": 23,
+      "title": "Black basic dress",
+      "image": "https://cdn.shopify.com/s/files/1/0411/4021/products/BILLIE-MINI-BLACK-F_1024x1024.jpg?v=1507593935 "
+    },
+    {
+      "category": "dresses",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Neon basic dress",
+      "id": 11,
+      "price": 17,
+      "title": "Neon basic dress",
+      "image": "https://cdn-img.prettylittlething.com/c/a/f/a/cafaa439660f6a53447d836d784760b8ed66f3ac_cmC0721_1.jpg "
+    },
+    {
+      "category": "dresses",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Print basic dress",
+      "id": 12,
+      "price": 50,
+      "title": "Print basic dress",
+      "image": "https://www.lulus.com/images/product/xlarge/2728182_538212.jpg?w=560 "
+    },
+    {
+      "category": "accesories",
+      "description": "Cat eye sunglasses",
+      "id": 13,
+      "price": 34,
+      "title": "Cat eye sunglasses",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61lFH93-CwL._UX679_.jpg "
+    },
+    {
+      "category": "accesories",
+      "description": "Leopart frame sunglasses",
+      "id": 14,
+      "price": 10,
+      "title": "Leopart frame sunglasses",
+      "image": "http://www.warringtontaekwondo.co.uk/images/cate_2/640/Vintage-Women-Sexy-Cat-Eye-Sunglasses-Designer-Small-Triangle-Sun-Glasses-leopard-Qwv9Lie2HMw2WVm7-epp0.jpg "
+    },
+    {
+      "category": "accesories",
+      "description": "Red frame sunglasses",
+      "id": 15,
+      "price": 17,
+      "title": "Red frame sunglasses",
+      "image": "https://http2.mlstatic.com/gafas-de-sol-lentes-bad-bunny-unisex-hombre-mujer-triangulo-D_NQ_NP_774405-MCO28233166964_092018-Q.jpg"
+    },
+    {
+      "category": "accesories",
+      "description": "Face Jewels Glow Dark",
+      "id": 16,
+      "price": 19,
+      "title": "Face Jewels Glow Dark",
+      "image": "http://d1f7geppf3ca7.cloudfront.net/origin/91177/1566348160960_mu1019.jpg"
+    },
+    {
+      "description": "Face Jewels Glow Dark",
+      "id": 17,
+      "price": 9,
+      "title": "Face Jewels Glow Dark",
+      "image": "https://cdn.shopify.com/s/files/1/1424/8354/products/greenGem_1800x.jpg?v=1564796419 "
+    },
+    {
+      "category": "accesories",
+      "description": "Face Jewels Glow Dark",
+      "id": 18,
+      "price": 7 ,
+      "title": "Face Jewels Glow Dark",
+      "image": "https://cdn.shopify.com/s/files/1/0982/0722/products/CR-010-FS_1_large.jpg?v=1537990250 "
+    },
+    {
+      "category": "accesories",
+      "description": "Heart Decor Waist Belt",
+      "id": 19,
+      "price": 24,
+      "title": "Heart Decor Waist Belt",
+      "image": "https://i.pinimg.com/originals/7d/2f/3c/7d2f3c5ab222a4951a6af85c2e38ff94.jpg "
+    },
+    {
+      "category": "accesories",
+      "availableSizes": [
+        "8",
+        "8/30",
+        "9",
+        "9/30"
+      ],
+      "description": "Leather belt with two buckles",
+      "id": 20,
+      "price": 28,
+      "title": "Leather belt with two buckles",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_851813-MLC31638539272_072019-V.jpg"
+    },
+    {
+      "category": "accesories",
+      "description": "Leather belt with one buckle",
+      "id": 21,
+      "price": 21,
+      "title": "Leather belt with one buckle",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61EdQlij%2BgL._UX569_.jpg"
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "High Neck Cut Out Crop Top Black",
+      "id": 22,
+      "price": 27,
+      "title": "High Neck Cut Out Crop Top Black",
+      "image": "https://lillyluimages.s3.amazonaws.com/product-images/530-1000/high-neck-cut-out-crop-top-black-tressa-lily-lulu-fashion-1.jpg"
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Pull Ring Denim Tube Top",
+      "id": 23,
+      "price": 28,
+      "title": "Pull Ring Denim Tube Top",
+      "image": "https://dynamic.zacdn.com/Wc-zXvmftNJoFkaI-0HT-nisR4s=/fit-in/346x500/filters:quality(95):fill(ffffff)/http://static.sg.zalora.net/p/forever-21-8623-5468711-1.jpg"
+    },
+    {
+      "category": "top",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Metallic Ribbed Sweater",
+      "id": 24,
+      "price": 29,
+      "title": "Metallic Ribbed Sweater",
+      "image": "https://www.forever21.com/images/1_front_750/00365630-03.jpg"
+    },
+    {
+      "category": "Shoes",
+      "availableSizes": [
+       "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "Leather belt with two buckles",
+      "id": 25,
+      "price": 26,
+      "title": "Leather belt with two buckles",
+      "image": "https://static.bershka.net/4/photos2/2019/I/1/1/p/5290/031/001/5290031001_1_1_3.jpg?t=1565774110835"
+    },
+    {
+      "category": "Shoes",
+      "availableSizes": [
+        "8",
+        "8/30",
+        "9",
+        "9/30"
+      ],
+      "description": "Leather belt with two buckles",
+      "id": 26,
+      "price": 24,
+      "title": "Leather belt with two buckles",
+      "image": "https://static.bershka.net/4/photos2/2019/I/1/1/p/5267/031/040/5267031040_1_1_3.jpg?t=1565790129768"
+    },
+    {
+      "category": "shoes",
+      "availableSizes": [
+        "8",
+        "8/30",
+        "9",
+        "9/30"
+      ],
+      "description": "Leather belt with two buckles",
+      "id": 27,
+      "price": 98,
+      "title": "Leather belt with two buckles",
+      "image": "https://static.bershka.net/4/photos2/2019/I/1/1/p/1500/560/107/1500560107_1_1_3.jpg?t=1568982319893"
+    }
+  ]
+}
